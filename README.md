@@ -1,5 +1,5 @@
 # WoomyCrypto
-Tool to encrypt/decrypt application area for Splatoon 2.
+Tool to encrypt/decrypt application area for Splatoon 2 amiibos.
 
 # Usage
 ## Decrypting

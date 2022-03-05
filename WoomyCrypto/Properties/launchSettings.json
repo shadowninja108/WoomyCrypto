@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WoomyCrypto": {
+      "commandName": "Project",
+      "commandLineArgs": "-d \"C:/Users/shado/Downloads/amiiboData.bin\""
+    }
+  }
+}
